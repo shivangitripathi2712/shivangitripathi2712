@@ -21,12 +21,16 @@
   <a href="https://shivangitripathi2712.github.io/">
     <img src="https://img.shields.io/badge/Website-Portfolio-purple?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
+  
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivangi-tripathi-62581415b/">
     <img src="https://img.shields.io/badge/LinkedIn-Shivangi%20Tripathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="Shivang_T_CV.pdf">
+  <img src="https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
+</a>
 </p>
 
 ---
