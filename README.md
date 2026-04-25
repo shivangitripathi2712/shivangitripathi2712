@@ -1,14 +1,32 @@
 <h1 align="center">Hi, I'm Shivangi Tripathi</h1>
-<h3 align="center">Ph.D. Student in Computer Science | Texas State University</h3>
+
+<h3 align="center">
+  Ph.D. Student in Computer Science at Texas State University
+</h3>
+
+<p align="center">
+  <b>LLM Safety | Hallucination Detection & Correction | Misinformation Revision | Trustworthy AI</b>
+</p>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=F0VM8BQAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
   <a href="https://orcid.org/0009-0007-4181-6582">
-    <img src="https://img.shields.io/badge/ORCID-0009--0007--4181--6582-green?style=for-the-badge&logo=orcid" />
+    <img src="https://img.shields.io/badge/ORCID-0009--0007--4181--6582-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
-  <img src="https://img.shields.io/badge/Research-LLM%20Safety%20%26%20Trustworthy%20AI-purple?style=for-the-badge" />
+  <a href="https://github.com/shivangitripathi2712">
+    <img src="https://img.shields.io/badge/GitHub-shivangitripathi2712-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://shivangitripathi2712.github.io/">
+    <img src="https://img.shields.io/badge/Website-Portfolio-purple?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivangi-tripathi-62581415b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivangi%20Tripathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
