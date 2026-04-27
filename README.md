@@ -37,7 +37,7 @@
 
 ## About Me
 
-I am a **Ph.D. student in Computer Science at Texas State University**, working on **Large Language Model reliability, hallucination detection and correction, misinformation revision, adversarial robustness, and trustworthy AI**.
+I am a 3rd year **Ph.D. student in Computer Science at Texas State University**, working on **Large Language Model reliability, hallucination detection and correction, misinformation revision, adversarial robustness, and trustworthy AI**.
 
 My research aims to make generative AI systems more **factually grounded, robust, and safe for real-world deployment**, especially in long-form generation and security-sensitive settings.
 
