@@ -12,9 +12,6 @@
   <a href="https://scholar.google.com/citations?user=F0VM8BQAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
-  <a href="https://orcid.org/0009-0007-4181-6582">
-    <img src="https://img.shields.io/badge/ORCID-0009--0007--4181--6582-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
   <a href="https://github.com/shivangitripathi2712">
     <img src="https://img.shields.io/badge/GitHub-shivangitripathi2712-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -31,6 +28,9 @@
   <a href="Shivang_T_CV.pdf">
   <img src="https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
 </a>
+   <a href="https://orcid.org/0009-0007-4181-6582">
+    <img src="https://img.shields.io/badge/ORCID-0009--0007--4181--6582-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
 </p>
 
 ---
